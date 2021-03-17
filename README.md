@@ -38,6 +38,17 @@ Available on [App Store](https://apps.apple.com/br/app/webook-agendamento-e-ofer
 
 ![Screen Shot 2021-03-16 at 22 53 02](https://user-images.githubusercontent.com/14919996/111402698-732fb200-86aa-11eb-89fa-160bfbb340de.png)
 
+## Webook for salons and barber shops
+This is a whitelabel app. Currently in use by +25 salons and barbershops. [You can see them here.](https://apps.apple.com/br/developer/clintec-sistemas/id1091785758#see-all/i-phonei-pad-apps)
+
+![Screen Shot 2021-03-16 at 23 07 19](https://user-images.githubusercontent.com/14919996/111403796-614f0e80-86ac-11eb-97e4-eef47f3702bd.png)
+
+![Screen Shot 2021-03-16 at 23 05 07](https://user-images.githubusercontent.com/14919996/111403735-44b2d680-86ac-11eb-8737-70363ccb8185.png)
+
+![Screen Shot 2021-03-16 at 23 05 18](https://user-images.githubusercontent.com/14919996/111403741-47153080-86ac-11eb-8fc0-d1882cf0b31b.png)
+
+![Screen Shot 2021-03-16 at 23 05 23](https://user-images.githubusercontent.com/14919996/111403750-4aa8b780-86ac-11eb-9121-ec9e9afebc30.png)
+
 ## Decorare
 Work in progress.
 
