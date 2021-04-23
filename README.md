@@ -1,7 +1,7 @@
 # Anthony's Projects
 
 ## MemoryGame
-Open source at https://github.com/SrAnthony/MemoryGame
+Open source at https://github.com/SrAnthony/MemoryGame and available on [App Store](https://apps.apple.com/us/app/jogo-da-mem%C3%B3ria-mais-legal/id1561229919)
 
 ![memory-game-prints](https://user-images.githubusercontent.com/14919996/111991600-412baf00-8af3-11eb-98ac-cf6b77c05273.png)
 
